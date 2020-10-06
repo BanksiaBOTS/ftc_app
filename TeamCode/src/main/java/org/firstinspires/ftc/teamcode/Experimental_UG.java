@@ -49,7 +49,7 @@ import com.qualcomm.robotcore.util.Range;
  * Remove or comment out the @Disabled line to add this opmode to the Driver Station OpMode list
  */
 
-@TeleOp(name = "Experimental: UGH", group = "")
+@TeleOp(name = "Experimental: UG", group = "")
 //@Disabled
 public class Experimental_UG extends LinearOpMode {
 
